@@ -11,3 +11,6 @@
 
 # Binaries
 [Bb]in/
+
+# MacOS indexing
+**/.DS_Store

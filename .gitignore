@@ -1,0 +1,13 @@
+# .vscode user settings
+.vscode/*
+
+# .vscode project files
+!.vscode/c_cpp_properties.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Debug symbols
+**/*.dSYM
+
+# Binaries
+[Bb]in/
